@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-api",
+  "version": "1.0.0",
+  "description": "Fullstack api with React-Express-mongo-electron",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Danny Escalante",
+  "license": "ISC"
+}
