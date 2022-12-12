@@ -4,7 +4,7 @@
   "description": "Fullstack api with React-Express-mongo-electron",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.1",
     "mongose": "^0.0.2-security"
   },
